@@ -30,3 +30,21 @@
 * You can add or remove each processing by commentout
 * I recommend you confirm how processing works before [URL](https://albumentations.ai/docs/getting_started/transforms_and_targets/).
 ![image](https://github.com/user-attachments/assets/d6fa60b9-4cea-4854-90f4-8dc9e97b22c3)
+
+4. Practice
+* Original img
+
+![image](https://github.com/user-attachments/assets/1e8b8ddd-1ec4-4ea3-9111-6450d2c8ced0)
+
+* Original mask
+
+![image](https://github.com/user-attachments/assets/9c37e5c3-d039-431a-829b-198aef014543)
+
+* Out img
+
+![image](https://github.com/user-attachments/assets/eaef534e-393b-49b9-bec3-89e37a594271)
+
+* Out mask
+
+![image](https://github.com/user-attachments/assets/856052c0-8797-4d8b-876d-5297713b5bd8)
+
